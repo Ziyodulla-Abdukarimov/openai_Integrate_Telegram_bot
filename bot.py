@@ -2,8 +2,8 @@ from aiogram import Bot, Dispatcher, executor, types
 import openai
 from test import detect_language
 
-API_TOKEN = '5827958299:AAH6noCDc1aGTKu9eGAoiJxnIMbhboEmby0'
-OPENAI_API_KEY = "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"
+API_TOKEN = 'TELEGRAM_BOT_TOKEN'
+OPENAI_API_KEY = "OPENAI_API_KEY"
 
 MODEL = "gpt-3.5-turbo"
 
